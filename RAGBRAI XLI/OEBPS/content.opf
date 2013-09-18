@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:fe65e67d-3fbf-46f1-b6eb-699b6796cb49</dc:identifier>
+    <dc:title>RAGBRAI XLI</dc:title>
+    <dc:creator opf:role="aut">Jikhan Jung</dc:creator>
+    <dc:language>ko</dc:language>
+    <dc:date opf:event="modification">2013-09-17</dc:date>
+    <meta content="0.7.3" name="Sigil version" />
+    <meta name="cover" content="cover.png" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Prologue%20pics.xhtml" id="Prologue_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Day%200-1.JPG" id="Day_0-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%200-2.JPG" id="Day_0-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%200-3.JPG" id="Day_0-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%200-4.JPG" id="Day_0-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%200-5.JPG" id="Day_0-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%200-6.JPG" id="Day_0-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%200-7.JPG" id="Day_0-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-1.JPG" id="Day_1-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-2.JPG" id="Day_1-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-3.JPG" id="Day_1-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-4.JPG" id="Day_1-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-5.JPG" id="Day_1-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-6.JPG" id="Day_1-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-7.JPG" id="Day_1-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-8.JPG" id="Day_1-8.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-9.JPG" id="Day_1-9.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-10.JPG" id="Day_1-10.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-11.JPG" id="Day_1-11.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%201-12.JPG" id="Day_1-12.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-1.JPG" id="Day_2-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-2.JPG" id="Day_2-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-3.JPG" id="Day_2-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-4.JPG" id="Day_2-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-5.JPG" id="Day_2-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-6.JPG" id="Day_2-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-7.JPG" id="Day_2-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-8.JPG" id="Day_2-8.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%202-9.JPG" id="Day_2-9.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-1.JPG" id="Day_3-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-2.JPG" id="Day_3-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-3.JPG" id="Day_3-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-4.JPG" id="Day_3-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-5.JPG" id="Day_3-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-6.JPG" id="Day_3-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%203-7.JPG" id="Day_3-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-1.JPG" id="Day_4-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-2.JPG" id="Day_4-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-3.JPG" id="Day_4-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-4.JPG" id="Day_4-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-5.JPG" id="Day_4-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-6.JPG" id="Day_4-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-7.JPG" id="Day_4-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-8.JPG" id="Day_4-8.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-9.JPG" id="Day_4-9.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-10.JPG" id="Day_4-10.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-11.JPG" id="Day_4-11.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-12.JPG" id="Day_4-12.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-13.JPG" id="Day_4-13.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-14.JPG" id="Day_4-14.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%204-15.JPG" id="Day_4-15.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-1.JPG" id="Day_5-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-2.JPG" id="Day_5-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-3.JPG" id="Day_5-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-4.JPG" id="Day_5-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-5.JPG" id="Day_5-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-6.JPG" id="Day_5-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-7.JPG" id="Day_5-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-8.JPG" id="Day_5-8.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-9.JPG" id="Day_5-9.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-10.JPG" id="Day_5-10.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-11.JPG" id="Day_5-11.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%205-12.JPG" id="Day_5-12.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%206-1.JPG" id="Day_6-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%206-2.JPG" id="Day_6-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%206-3.JPG" id="Day_6-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%206-4.JPG" id="Day_6-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-1.JPG" id="Day_7-1.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-2.JPG" id="Day_7-2.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-3.JPG" id="Day_7-3.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-4.JPG" id="Day_7-4.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-5.JPG" id="Day_7-5.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-6.JPG" id="Day_7-6.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-7.JPG" id="Day_7-7.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-8.JPG" id="Day_7-8.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-9.JPG" id="Day_7-9.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-10.JPG" id="Day_7-10.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-12.JPG" id="Day_7-12.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-13.JPG" id="Day_7-13.JPG" media-type="image/jpeg" />
+    <item href="Images/Day%207-14.JPG" id="Day_7-14.JPG" media-type="image/jpeg" />
+    <item href="Styles/epub.css" id="epub.css" media-type="text/css" />
+    <item href="Styles/synth.css" id="synth.css" media-type="text/css" />
+    <item href="Text/Day%201.xhtml" id="Day_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%202.xhtml" id="Day_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%203.xhtml" id="Day_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%204.xhtml" id="Day_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%205.xhtml" id="Day_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%206.xhtml" id="Day_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%207.xhtml" id="Day_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Epilogue.xhtml" id="Epilogue.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cover.png" id="cover.png" media-type="image/png" />
+    <item href="Text/Day%201%20pics.xhtml" id="Day_1_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%202%20pics.xhtml" id="Day_2_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%203%20pics.xhtml" id="Day_3_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%204%20pics.xhtml" id="Day_4_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%205%20pics.xhtml" id="Day_5_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%206%20pics.xhtml" id="Day_6_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Day%207%20pics.xhtml" id="Day_7_pics.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Prologue.xhtml" id="Prologue.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="Prologue.xhtml" />
+    <itemref idref="Prologue_pics.xhtml" />
+    <itemref idref="Day_1.xhtml" />
+    <itemref idref="Day_1_pics.xhtml" />
+    <itemref idref="Day_2.xhtml" />
+    <itemref idref="Day_2_pics.xhtml" />
+    <itemref idref="Day_3.xhtml" />
+    <itemref idref="Day_3_pics.xhtml" />
+    <itemref idref="Day_4.xhtml" />
+    <itemref idref="Day_4_pics.xhtml" />
+    <itemref idref="Day_5.xhtml" />
+    <itemref idref="Day_5_pics.xhtml" />
+    <itemref idref="Day_6.xhtml" />
+    <itemref idref="Day_6_pics.xhtml" />
+    <itemref idref="Day_7.xhtml" />
+    <itemref idref="Day_7_pics.xhtml" />
+    <itemref idref="Epilogue.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
